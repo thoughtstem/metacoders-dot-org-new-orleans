@@ -7,7 +7,7 @@
 
 ; If you are creating a brand new course,
 ; run (generate-random-sku) to generate a unique sku id
-(define (weekly-class-k-2nd-winter) 
+(define/provide-course weekly-class-k-2nd-winter
   (course
       ;#:topic         "Awesome Animals!"
       ;#:sku           "sku_GKwkIwx91IPMXI"
@@ -24,7 +24,7 @@
       ;#:status        'open
    ))
 
-(define (summer-camp-clicker-k-2nd-7/15)
+(define/provide-course summer-camp-clicker-k-2nd-7/15
   (camp ;#:topic         "Cartoon Clicker Games!"
         ;#:sku           "sku_GG43XFZEQxqgmG"
         ;#:image-url     "https://s3-us-west-1.amazonaws.com/ts-email-assets-and-stuff/DSC_0603_370_200.jpg"
@@ -52,8 +52,8 @@
         (city-page
          #:city-name "New Orleans, LA"
          #:banner-url (prefix/pathify new-orleans-banner-path)
-         ;#:school-year-courses (list (weekly-class-k-2nd-winter))
-         ;#:summer-camps (list (summer-camp-clicker-k-2nd-7/15))
+         ;#:school-year-courses (list weekly-class-k-2nd-winter)
+         ;#:summer-camps (list summer-camp-clicker-k-2nd-7/15)
          ;#:camp-pricing (summer-camp-pricing-at #:location "Gallaudet University"
          ;                                       #:am-camp-time "9am - 1pm"
          ;                                       #:pm-camp-time "1pm - 4pm"
