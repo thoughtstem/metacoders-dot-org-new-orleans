@@ -52,6 +52,7 @@
         (city-page
          #:city-name "New Orleans, LA"
          #:banner-url (prefix/pathify new-orleans-banner-path)
+         #:alt-tag "City of New Orleans, Louisiana with busy streets and trolley"
          ;#:school-year-courses (list (weekly-class-k-2nd-winter))
          ;#:summer-camps (list (summer-camp-clicker-k-2nd-7/15))
          ;#:camp-pricing (summer-camp-pricing-at #:location "Gallaudet University"
