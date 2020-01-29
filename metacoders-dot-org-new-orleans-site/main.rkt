@@ -140,7 +140,7 @@
 (define/provide-camp summer-camp-pokemon-k-2nd-6/15
   (camp #:topic         "Adventures in Coding and Pokemon"
         #:sku           "sku_zGC5A61JSa2HE9Ex9c2UNw"
-        #:video-path     survival-pokemon-mp4-path                     
+        #:video-path     clicker-pokemon-mp4-path                     
         #:description   (~a "In this camp, we'll explore coding & communication skills through a newly developed programming language that combines the ease of visual programming with the benefits of typed programming. Students will enjoy learning how to code games using popular Pokemon characters.  This particular camp will focus on developing communication skills, with students learning how to translate from English instructions to code, but also explain their code to instructors.")
         #:grade-range     "Entering K - 2nd"
         #:location      "Loyola University New Orleans"
@@ -264,6 +264,146 @@
         #:status         'open
         ))
 
+(define/provide-camp summer-pokemon-k-2nd-6/29
+  (camp #:topic         "Adventures in Coding and Pokemon"
+        #:sku           "sku_pPav6N2DQgOMOBhY6WFtIQ"
+        #:video-path     clicker-pokemon-mp4-path                      
+        #:description   (~a "In this camp, we'll explore coding & communication skills through a newly developed programming language that combines the ease of visual programming with the benefits of typed programming. Students will enjoy learning how to code games using popular Pokemon characters.  This particular camp will focus on developing communication skills, with students learning how to translate from English instructions to code, but also explain their code to instructors.")
+        #:grade-range     "Entering K - 2nd"
+        #:location      "Loyola University New Orleans"
+        #:address       "6363 St Charles Ave, New Orleans, LA 70118"
+        #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
+        #:price         340
+        #:check-in-time "8:45am - 9:00am"
+        #:camp-time     "9:00am - 1:00pm"
+        #:lunch-time    "12:00pm - 1:00pm"
+        #:pickup-time   "1:00pm - 1:15pm"
+        #:meeting-dates (list "6/29/2020" "6/30/2020" "7/1/2020" "7/2/2020" "7/3/2020")
+        #:status         'open
+        ))
+
+(define/provide-camp summer-camp-farm-k-2nd-6/29
+  (camp #:topic         "Adventures in Coding and Farm Animals"
+        #:sku           "sku_etv6mrkkReW1nvmh5xIgZQ"
+        #:video-path     healer-animal-mp4-path                     
+        #:description   (~a "In this camp, we'll explore coding & abstract reasoning skills through a newly developed programming language that combines the ease of visual programming with the benefits of typed programming. Students will enjoy learning how to code their own farm adventure with animals like horses, cows, and sheep!  This particular camp will focus on developing abstract reasoning skills, one of the many benefits of learning computer science.")
+        #:grade-range     "Entering K - 2nd"
+        #:location      "Loyola University New Orleans"
+        #:address       "6363 St Charles Ave, New Orleans, LA 70118"
+        #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
+       #:price         260
+        #:check-in-time "12:45pm - 1:00pm"
+        #:camp-time     "1:00pm - 4:00pm"
+       ; #:lunch-time    "12:00pm - 1:00pm"
+        #:pickup-time   "4:00pm - 4:15pm"
+        #:meeting-dates (list "6/29/2020" "6/30/2020" "7/1/2020" "7/2/2020" "7/3/2020")
+        #:status         'open
+        ))
+
+(define/provide-camp summer-mario-3-6th-6/29
+  (camp #:topic         "Coding for Mario Fans"
+        #:sku           "sku_AUc98hiTQ7OAJeiMuG2kw"
+        #:video-path     adventure-mario-mp4-path                      
+        #:description   (~a "This summer, students will learn how to create their own Mario-themed adventure games! Since its release in 1985, Mario titles have been a huge hit with gamers of all ages. In this camp, students will learn how to code an adventure video game that draws on elements of the Mario franchise, like mushrooms and power-ups, for inspiration! Our camps also go beyond the computer screen, utilizing \"unplugged\" games and social activities to round out the summer camp experience. In addition to leveling up their coding skills, students practice communication, teamwork, problem-solving, and abstract reasoning: indispensable skills for coders -- and humans -- everywhere!")
+        #:grade-range     "Entering 3rd - 6th"
+        #:location      "Loyola University New Orleans"
+        #:address       "6363 St Charles Ave, New Orleans, LA 70118"
+        #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
+        #:price         340
+        #:check-in-time "8:45am - 9:00am"
+        #:camp-time     "9:00am - 1:00pm"
+        #:lunch-time    "12:00pm - 1:00pm"
+        #:pickup-time   "1:00pm - 1:15pm"
+        #:meeting-dates (list "6/29/2020" "6/30/2020" "7/1/2020" "7/2/2020" "7/3/2020")
+        #:status         'open
+        ))
+
+(define/provide-camp summer-camp-fortnite-3-6th-6/29
+  (camp #:topic         "Coding for Fortnite Fans"
+        #:sku           "sku_XlqGSQxFTxuBn3Oq6O7yw"
+        #:video-path     battlearena-fortnite-mp4-path                     
+        #:description   (~a "This summer, students will learn how to build a 2D video game with all the exciting elements of the popular 3D video game, Fortnite! In this camp, students will learn how to code different features of Fortnite, like enemies, armor, weapons, and potions, into their own unique 2D games! Our camps also go beyond the computer screen, utilizing \"unplugged\" games and social activities to round out the summer camp experience. In addition to leveling up their coding skills, students practice communication, teamwork, problem-solving, and abstract reasoning: indispensable skills for coders -- and humans -- everywhere!")
+        #:grade-range     "Entering 3rd - 6th"
+        #:location      "Loyola University New Orleans"
+        #:address       "6363 St Charles Ave, New Orleans, LA 70118"
+        #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
+       #:price         260
+        #:check-in-time "12:45pm - 1:00pm"
+        #:camp-time     "1:00pm - 4:00pm"
+       ; #:lunch-time    "12:00pm - 1:00pm"
+        #:pickup-time   "4:00pm - 4:15pm"
+        #:meeting-dates (list "6/29/2020" "6/30/2020" "7/1/2020" "7/2/2020" "7/3/2020")
+        #:status         'open
+        ))
+
+(define/provide-camp summer-zoo-k-2nd-7/6
+  (camp #:topic         "Adventures in Coding and Zoo Animals"
+        #:sku           "sku_fakU1MmnT1OWBVw1UYGn9Q"
+        #:video-path     healer-zoo-mp4-path                     
+        #:description   (~a "In this camp, we'll explore coding & critical thinking skills through a newly developed programming language that combines the ease of visual programming with the benefits of typed programming.  Students will enjoy learning how to code their own zoo adventure with animals like elephants, giraffes, and lions! This particular camp will focus on developing critical thinking skills, one of the many benefits of learning computer science.")
+        #:grade-range     "Entering K - 2nd"
+        #:location      "Loyola University New Orleans"
+        #:address       "6363 St Charles Ave, New Orleans, LA 70118"
+        #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
+        #:price         340
+        #:check-in-time "8:45am - 9:00am"
+        #:camp-time     "9:00am - 1:00pm"
+        #:lunch-time    "12:00pm - 1:00pm"
+        #:pickup-time   "1:00pm - 1:15pm"
+        #:meeting-dates (list "7/6/2020" "7/7/2020" "7/8/2020" "7/9/2020" "7/10/2020")
+        #:status         'open
+        ))
+(define/provide-camp summer-camp-cartoon-k-2nd-7/6
+  (camp #:topic         "Adventures in Coding and Cartoons"
+        #:sku           "sku_eaIiMiRzSfyQAoee3M0AqQ"
+        #:video-path     clicker-cartoon-mp4-path                     
+        #:description   (~a "In this camp, we'll explore coding & creativity through a newly developed programming language that combines the ease of visual programming with the benefits of typed programming. Students will enjoy learning how to code video games that they can share with friends & family after camp. Students will be able to choose from a unique array of cartoon characters, items, and scenes so that they can exercise their creativity while designing their games!")
+        #:grade-range     "Entering K - 2nd"
+        #:location      "Loyola University New Orleans"
+        #:address       "6363 St Charles Ave, New Orleans, LA 70118"
+        #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
+       #:price         260
+        #:check-in-time "12:45pm - 1:00pm"
+        #:camp-time     "1:00pm - 4:00pm"
+       ; #:lunch-time    "12:00pm - 1:00pm"
+        #:pickup-time   "4:00pm - 4:15pm"
+        #:meeting-dates (list "7/6/2020" "7/7/2020" "7/8/2020" "7/9/2020" "7/10/2020")
+        #:status         'open
+        ))
+(define/provide-camp summer-harrypotter-3-6th-7/6
+  (camp #:topic         "Coding for Harry Potter Fans"
+        #:sku           "sku_gm4rRjyLSq5dqV2lF9SA"
+        #:video-path     adventure-harrypotter-mp4-path                     
+        #:description   (~a "This summer, students will learn the fundamentals of computer science by developing their own wizard-themed video games. Using Harry Potter as a point of inspiration, we will teach students how to craft their own adventure game inside a unique wizarding world. Our camps also go beyond the computer screen, utilizing \"unplugged\" games and social activities to round out the summer camp experience. In addition to leveling up their coding skills, students practice communication, teamwork, problem-solving, and abstract reasoning: indispensable skills for coders -- and humans -- everywhere!")
+        #:grade-range     "Entering 3rd - 6th"
+        #:location      "Loyola University New Orleans"
+        #:address       "6363 St Charles Ave, New Orleans, LA 70118"
+        #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
+        #:price         340
+        #:check-in-time "8:45am - 9:00am"
+        #:camp-time     "9:00am - 1:00pm"
+        #:lunch-time    "12:00pm - 1:00pm"
+        #:pickup-time   "1:00pm - 1:15pm"
+        #:meeting-dates (list "7/6/2020" "7/7/2020" "7/8/2020" "7/9/2020" "7/10/2020")
+        #:status         'open
+        ))
+(define/provide-camp summer-camp-minecraft-3-6th-7/6
+  (camp #:topic         "Coding for Minecraft Fans"
+        #:sku           "sku_94sQWG74T92IQyUX05wSRw"
+        #:video-path     survival-minecraft-mp4-path                     
+        #:description   (~a "This summer, students will learn how to code a 2D version of their favorite video game - Minecraft! Drawing on the video game mechanics of the hit 3D game, students will code their own 2D blocky survival game with day night cycles, health bars, and enemies like Creepers to hide from at night! Our camps also go beyond the computer screen, utilizing \"unplugged\" games and social activities to round out the summer camp experience. In addition to leveling up their coding skills, students practice communication, teamwork, problem-solving, and abstract reasoning: indispensable skills for coders -- and humans -- everywhere!")
+        #:grade-range     "Entering 3rd - 6th"
+        #:location      "Loyola University New Orleans"
+        #:address       "6363 St Charles Ave, New Orleans, LA 70118"
+        #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
+       #:price         260
+        #:check-in-time "12:45pm - 1:00pm"
+        #:camp-time     "1:00pm - 4:00pm"
+       ; #:lunch-time    "12:00pm - 1:00pm"
+        #:pickup-time   "4:00pm - 4:15pm"
+        #:meeting-dates (list "7/6/2020" "7/7/2020" "7/8/2020" "7/9/2020" "7/10/2020")
+        #:status         'open
+        ))
 (define (index)
   (page index.html
         (city-page
@@ -281,7 +421,15 @@
                               summer-camp-cartoon-k-2nd-6/22
                               summer-camp-zoo-k-2nd-6/22
                               summer-camp-starwars-3rd-6th-6/22
-                              summer-camp-pokemon-3-6th-6/22)
+                              summer-camp-pokemon-3-6th-6/22
+                              summer-pokemon-k-2nd-6/29
+                              summer-camp-farm-k-2nd-6/29
+                              summer-mario-3-6th-6/29
+                              summer-camp-fortnite-3-6th-6/29
+                              summer-zoo-k-2nd-7/6
+                              summer-camp-cartoon-k-2nd-7/6
+                              summer-harrypotter-3-6th-7/6
+                              summer-camp-minecraft-3-6th-7/6)
          #:camp-pricing (summer-camp-pricing-at #:location "Loyola University New Orleans"
                                                 #:am-camp-time "9am - 1pm"
                                                 #:pm-camp-time "1pm - 4pm"
