@@ -448,6 +448,7 @@
         (city-page
          #:city-name "New Orleans, LA"
          #:banner-url (prefix/pathify new-orleans-banner-path)
+         #:alt-tag "City of New Orleans, Louisiana with busy streets and trolley"
          ;#:school-year-courses (list weekly-class-k-2nd-winter)
          #:summer-camps (list summer-camp-zoo-k-2nd-6/8
                               summer-camp-cartoon-k-2nd-6/8
