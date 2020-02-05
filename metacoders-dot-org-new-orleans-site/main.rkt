@@ -92,6 +92,7 @@
         #:address       "6363 St Charles Ave, New Orleans, LA 70118"
         #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
         #:price         340
+        #:discount      34
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -110,6 +111,7 @@
         #:address       "6363 St Charles Ave, New Orleans, LA 70118"
         #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
         #:price         260
+        #:discount      26
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
@@ -128,6 +130,7 @@
         #:address       "6363 St Charles Ave, New Orleans, LA 70118"
         #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
         #:price         340
+        #:discount      34
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -146,6 +149,7 @@
         #:address       "6363 St Charles Ave, New Orleans, LA 70118"
         #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
         #:price         260
+        #:discount      26
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
@@ -164,6 +168,7 @@
         #:address       "6363 St Charles Ave, New Orleans, LA 70118"
         #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
         #:price         340
+        #:discount      34
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -181,7 +186,8 @@
         #:location      "Loyola University New Orleans"
         #:address       "6363 St Charles Ave, New Orleans, LA 70118"
         #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
-       #:price         260
+        #:price         260
+        #:discount      26
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
@@ -200,6 +206,7 @@
         #:address       "6363 St Charles Ave, New Orleans, LA 70118"
         #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
         #:price         340
+        #:discount      34
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -218,6 +225,7 @@
         #:address       "6363 St Charles Ave, New Orleans, LA 70118"
         #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
         #:price         260
+        #:discount      26
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
@@ -236,6 +244,7 @@
         #:address       "6363 St Charles Ave, New Orleans, LA 70118"
         #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
         #:price         340
+        #:discount      34
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -253,7 +262,8 @@
         #:location      "Loyola University New Orleans"
         #:address       "6363 St Charles Ave, New Orleans, LA 70118"
         #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
-       #:price         260
+        #:price         260
+        #:discount      26
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
@@ -273,6 +283,7 @@
         #:address       "6363 St Charles Ave, New Orleans, LA 70118"
         #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
         #:price         340
+        #:discount      34
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -291,6 +302,7 @@
         #:address       "6363 St Charles Ave, New Orleans, LA 70118"
         #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
         #:price         260
+        #:discount      26
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
@@ -309,6 +321,7 @@
         #:address       "6363 St Charles Ave, New Orleans, LA 70118"
         #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
         #:price         340
+        #:discount      34
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -326,7 +339,8 @@
         #:location      "Loyola University New Orleans"
         #:address       "6363 St Charles Ave, New Orleans, LA 70118"
         #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
-       #:price         260
+        #:price         260
+        #:discount      26
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
@@ -345,6 +359,7 @@
         #:address       "6363 St Charles Ave, New Orleans, LA 70118"
         #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
         #:price         340
+        #:discount      34
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -362,7 +377,8 @@
         #:location      "Loyola University New Orleans"
         #:address       "6363 St Charles Ave, New Orleans, LA 70118"
         #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
-       #:price         260
+        #:price         260
+        #:discount      26
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
@@ -381,6 +397,7 @@
         #:address       "6363 St Charles Ave, New Orleans, LA 70118"
         #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
         #:price         340
+        #:discount      34
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -399,6 +416,7 @@
         #:address       "6363 St Charles Ave, New Orleans, LA 70118"
         #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
         #:price         260
+        #:discount      26
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
@@ -417,6 +435,7 @@
         #:address       "6363 St Charles Ave, New Orleans, LA 70118"
         #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
         #:price         340
+        #:discount      34
         #:check-in-time "8:45am - 9:00am"
         #:camp-time     "9:00am - 1:00pm"
         #:lunch-time    "12:00pm - 1:00pm"
@@ -435,6 +454,7 @@
         #:address       "6363 St Charles Ave, New Orleans, LA 70118"
         #:address-link  "https://goo.gl/maps/rrqihjAviS9QzzTc8"
         #:price         260
+        #:discount      26
         #:check-in-time "12:45pm - 1:00pm"
         #:camp-time     "1:00pm - 4:00pm"
        ; #:lunch-time    "12:00pm - 1:00pm"
