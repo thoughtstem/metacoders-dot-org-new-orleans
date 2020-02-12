@@ -7,7 +7,9 @@
 
 ; If you are creating a brand new course,
 ; run (generate-random-sku) to generate a unique sku id
-(define/provide-course weekly-class-k-2nd-winter
+
+; ========== EXAMPLE COURSE ==========
+#;(define/provide-course weekly-class-k-2nd-winter
   (course
       ;#:topic         "Awesome Animals!"
       ;#:sku           "sku_GKwkIwx91IPMXI"
@@ -24,16 +26,15 @@
       ;#:status        'open
    ))
 
-(define/provide-course summer-camp-clicker-k-2nd-7/15
+; ========== EXAMPLE CAMP ===========
+#;(define clicker-cartoon-description
+    (~a "In this camp, we'll explore coding & creativity through a newly developed programming language that combines the ease of visual programming with the benefits of typed programming. Students will enjoy learning how to code video games that they can share with friends & family after camp. Students will be able to choose from a unique array of cartoon characters, items, and scenes so that they can exercise their creativity while designing their games!"))
+
+#;(define/provide-course summer-camp-clicker-k-2nd-7/15
   (camp ;#:topic         "Cartoon Clicker Games!"
         ;#:sku           "sku_GG43XFZEQxqgmG"
-        ;#:video-path     cartoon-clicker-mp3-path
-        ;#:description   (~a "In our Summer program, students at Gallaudet will learn how to code their own whack-a-mole style games that utilize the mouse. "
-        ;                    "Students will learn how to customize their game with near endless possible combinations: Are you a UFO collecting cows? "
-        ;                    "Or a kid eating up their favorite foods and avoiding their least favorites? Or a ninja nabbing fruit and not the bombs? "
-        ;                    "Their games will feature a point system, and students will code in-game items such that they gain or lose points when the "
-        ;                    "player clicks on them. This course will not only strengthen students’ coding skills, but also their keyboard and mouse skills. "
-        ;                    "Throughout the course, students will earn physical badges that demonstrate their mastery and inspire them to keep coding!")
+        ;#:video-path    cartoon-clicker-mp4-path
+        ;#:description   clicker-cartoon-description
         ;#:grade-range   "Entering K - 2nd"
         ;#:location      "Gallaudet University"
         ;#:address       "800 Florida Ave NE, Washington, DC 20002"
@@ -47,6 +48,7 @@
         ;#:status         'open
         ))
 
+; ========== CAMP DESCRIPTIONS ==========
 (define healer-zoo-description
   (~a "In this camp, we'll explore coding & critical thinking skills through a newly developed programming language that combines the ease of visual programming with the benefits of typed programming.  Students will enjoy learning how to code their own zoo adventure with animals like elephants, giraffes, and lions! This particular camp will focus on developing critical thinking skills, one of the many benefits of learning computer science."))
 
@@ -79,8 +81,6 @@
 
 (define adventure-mario-description
   (~a "This summer, students will learn how to create their own Mario-themed adventure games! Since its release in 1985, Mario titles have been a huge hit with gamers of all ages. In this camp, students will learn how to code an adventure video game that draws on elements of the Mario franchise, like mushrooms and power-ups, for inspiration! Our camps also go beyond the computer screen, utilizing \"unplugged\" games and social activities to round out the summer camp experience. In addition to leveling up their coding skills, students practice communication, teamwork, problem-solving, and abstract reasoning: indispensable skills for coders -- and humans -- everywhere!"))
-
-
 
 (define/provide-camp summer-camp-zoo-k-2nd-6/8
   (camp #:topic         "Adventures in Coding and Zoo Animals"
@@ -123,8 +123,8 @@
 (define/provide-camp summer-camp-fortnite-3-6th-6/8
   (camp #:topic         "Coding for Fortnite Fans"
         #:sku           "sku_gIlTZDVDSymDSpyPbB5aQ"
-        #:video-path     battlearena-fortnite-mp4-path                     
-        #:description    battlearena-fortnite-description
+        #:video-path    battlearena-fortnite-mp4-path                     
+        #:description   battlearena-fortnite-description
         #:grade-range   "Entering 3rd - 6th"
         #:location      "Loyola University New Orleans"
         #:address       "6363 St Charles Ave, New Orleans, LA 70118"
